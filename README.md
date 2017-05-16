@@ -37,12 +37,7 @@
 
 
 4. Privilege
-Event
-Guest
-Users
-Admin
-read founds
-
+![image](LostAndFound/Screen Shot 2017-05-16 at 12.16.07 PM.png)
 
 
 report founds
