@@ -18,12 +18,12 @@
 
 	  p.s database connection have been set under mongoConnection.js 
   
-  ```javascript
-  const mongodbConfig = {
-  'serverUrl': 'mongodb://cgu:cgusamuel@ds159200.mlab.com:59200/',
-  'database': 'cgu_lost_and_found'
-  }
-  ```
+  	```javascript
+  	const mongodbConfig = {
+  	'serverUrl': 'mongodb://cgu:cgusamuel@ds159200.mlab.com:59200/',
+  	'database': 'cgu_lost_and_found'
+  	}
+  	```
   
   	 4. Type in the url “http://localhost:3000/”, where you can see our LOST&FOUND main page.
          5. An existing admin
@@ -39,69 +39,45 @@
 4. Privilege
 ![image](https://github.com/haoweichen/LostAndFound/blob/master/Screen%20Shot%202017-05-16%20at%2012.16.07%20PM.png)
 
-
-report founds
-
-
-
-read losts
-
-
-
-report losts
-
-
-
-comment
-
-
-
-delete any report
-
-
-
-
-
-
 5. Structure
 	models – mongoCollections.js
-		     mongoConnection.js
-		     found.js
-		     index.js
-		     lost.js
-		     user.js
+		 mongoConnection.js
+		 found.js
+		 index.js
+		 lost.js
+		 user.js
 
 	public – css – bootstrap.css
-			  bootstrap.min.css
-			  style.css
+		       bootstrap.min.css
+		       style.css
 		– images
  		– js – bootstrap.js
-		          dialog.js
-		          js.js
-                                tabEvents.js
+		       dialog.js
+		       js.js
+                       tabEvents.js
 		– fonts
 
 	routes – index.js(defining all routes)
-		    dashboard.js
-		    found.js
-		    home.js
-        	                login.js
-                           logout.js
-                           lost.js
-		    map.js
-                           register.js
+		 dashboard.js
+		 found.js
+		 home.js
+        	 login.js
+                 logout.js
+                 lost.js
+		 map.js
+                 register.js
 
 	views – layouts – main.handlebars
-		     dashboard.handlebars
-		     found-detail.handlebars
-		     found.handlebars
-		     googlemap.html
-		     home.handlebars
-		     login.handlebars
-		     lost-detail.handlebars
-		     lost.handlebars
-		     map.handlebars
-		     register.handlebars
+		dashboard.handlebars
+		found-detail.handlebars
+		found.handlebars
+		googlemap.html
+		home.handlebars
+		login.handlebars
+		lost-detail.handlebars
+		lost.handlebars
+		map.handlebars
+		register.handlebars
 
 app.js(creates, configures, and runs the server)
 
