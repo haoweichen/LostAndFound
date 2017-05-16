@@ -4,11 +4,11 @@
     The LOST&FOUND is a web app developed by Node.JS, which is the platform for the Stevens community. Either people find something or people lost something will head here. We gather every lost item in the Stevens and try to match them with their owners. If you lost something, be sure to check here out first!
 
 **2. How do we develop LOST&FOUND?**
-		<br>Node.JS: as our backend requirements</br>
-		<br>Express: handle our server</br>
-		<br>MongoDB: make the functionality webpages</br>
-		<br>HTML and CSS: make valid webpages</br>
-		<br>GOOGLE MAP API: position marks of lost-and-found</br>
+  <br>Node.JS: as our backend requirements</br>
+  <br>Express: handle our server</br>
+  <br>MongoDB: make the functionality webpages</br>
+  <br>HTML and CSS: make valid webpages</br>
+  <br>GOOGLE MAP API: position marks of lost-and-found</br>
 
 **3. How to use LOST&FOUND?**
    1. Download the package of the code, open the terminal and switch to the folder where the package is.
