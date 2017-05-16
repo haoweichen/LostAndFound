@@ -25,19 +25,19 @@
   }
   ```
   
-  4. Type in the url “http://localhost:3000/”, where you can see our LOST&FOUND main page.
-  5. An existing admin
-	  email: 1@1.com
-	  password: 1
+  	 4. Type in the url “http://localhost:3000/”, where you can see our LOST&FOUND main page.
+         5. An existing admin
+	 email: 1@1.com
+	 password: 1
 	
-  6. An existing user
-	  email: 2@1.com
-	  password: 1
+  	6. An existing user
+	 email: 2@1.com
+	 password: 1
 
 
 
 4. Privilege
-![image](LostAndFound/Screen Shot 2017-05-16 at 12.16.07 PM.png)
+![image](https://github.com/haoweichen/LostAndFound/blob/master/Screen%20Shot%202017-05-16%20at%2012.16.07%20PM.png)
 
 
 report founds
