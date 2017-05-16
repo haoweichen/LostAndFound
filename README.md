@@ -14,16 +14,16 @@
    1. Download the package of the code, open the terminal and switch to the folder where the package is.
    2. Run “npm install” to install all dependencies.
    3. Run “npm start”
-	    After the code successful running, then go to the browser
-
+      After the code successful running, then go to the browser
+	    
     p.s database connection have been set under mongoConnection.js 
   
-		```javascript
-  		const mongodbConfig = {
-  		'serverUrl': 'mongodb://cgu:cgusamuel@ds159200.mlab.com:59200/',
-  		'database': 'cgu_lost_and_found'
-  		}
-  		```
+	```javascript
+  	const mongodbConfig = {
+  	'serverUrl': 'mongodb://cgu:cgusamuel@ds159200.mlab.com:59200/',
+  	'database': 'cgu_lost_and_found'
+  	}
+  	```
   
   4. Type in the url “http://localhost:3000/”, where you can see our LOST&FOUND main page.
   5. An existing admin
