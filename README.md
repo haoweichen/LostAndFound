@@ -40,6 +40,7 @@
 ![image](https://github.com/haoweichen/LostAndFound/blob/master/Screen%20Shot%202017-05-16%20at%2012.16.07%20PM.png)
 
 **5. Structure**
+
 	models – mongoCollections.js
 		 mongoConnection.js
 		 found.js
