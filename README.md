@@ -1,16 +1,16 @@
 # LostAndFound
 
-1.  Introduction to LOST&FOUND
+**1. Introduction to LOST&FOUND**
     The LOST&FOUND is a web app developed by Node.JS, which is the platform for the Stevens community. Either people find something or people lost something will head here. We gather every lost item in the Stevens and try to match them with their owners. If you lost something, be sure to check here out first!
 
-2. How do we develop LOST&FOUND?
+**2. How do we develop LOST&FOUND?**
 	  Node.JS: as our backend requirements
 	  Express: handle our server
 	  MongoDB: make the functionality webpages
 	  HTML and CSS: make valid webpages
 	  GOOGLE MAP API: position marks of lost-and-found
 
-3. How to use LOST&FOUND?
+**3. How to use LOST&FOUND?**
    1. Download the package of the code, open the terminal and switch to the folder where the package is.
 	 2. Run “npm install” to install all dependencies.
 	 3. Run “npm start”
@@ -36,10 +36,10 @@
 
 
 
-4. Privilege
+**4. Privilege**
 ![image](https://github.com/haoweichen/LostAndFound/blob/master/Screen%20Shot%202017-05-16%20at%2012.16.07%20PM.png)
 
-5. Structure
+**5. Structure**
 	models – mongoCollections.js
 		 mongoConnection.js
 		 found.js
