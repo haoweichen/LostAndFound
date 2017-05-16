@@ -22,7 +22,8 @@
   	const mongodbConfig = {
   	'serverUrl': 'mongodb://cgu:cgusamuel@ds159200.mlab.com:59200/',
   	'database': 'cgu_lost_and_found'
-  	}```
+  	}
+```
   
   4. Type in the url “http://localhost:3000/”, where you can see our LOST&FOUND main page.
   5. An existing admin
