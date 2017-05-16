@@ -12,11 +12,11 @@
 
 **3. How to use LOST&FOUND?**
    1. Download the package of the code, open the terminal and switch to the folder where the package is.
-	 2. Run “npm install” to install all dependencies.
-	 3. Run “npm start”
+   2. Run “npm install” to install all dependencies.
+   3. Run “npm start”
 	    After the code successful running, then go to the browser
 
-	 p.s database connection have been set under mongoConnection.js 
+    p.s database connection have been set under mongoConnection.js 
   
   	```javascript
   	const mongodbConfig = {
@@ -25,12 +25,12 @@
   	}
   	```
   
-  	 4. Type in the url “http://localhost:3000/”, where you can see our LOST&FOUND main page.
-         5. An existing admin
+  4. Type in the url “http://localhost:3000/”, where you can see our LOST&FOUND main page.
+  5. An existing admin
 	 email: 1@1.com
 	 password: 1
 	
-  	6. An existing user
+  6. An existing user
 	 email: 2@1.com
 	 password: 1
 
