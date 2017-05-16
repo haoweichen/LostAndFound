@@ -16,7 +16,7 @@
 	 3. Run “npm start”
 	    After the code successful running, then go to the browser
 
-	  p.s database connection have been set under mongoConnection.js 
+	 p.s database connection have been set under mongoConnection.js 
   
   	```javascript
   	const mongodbConfig = {
