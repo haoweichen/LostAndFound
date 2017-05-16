@@ -18,7 +18,7 @@
 
     p.s database connection have been set under mongoConnection.js 
   
-  	```javascript
+```javascript
   	const mongodbConfig = {
   	'serverUrl': 'mongodb://cgu:cgusamuel@ds159200.mlab.com:59200/',
   	'database': 'cgu_lost_and_found'
