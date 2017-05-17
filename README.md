@@ -1,7 +1,7 @@
 # LostAndFound
 
 **1. Introduction to LOST&FOUND**
-    The LOST&FOUND is a web app developed by Node.JS, which is the platform for the Stevens community. Either people find something or people lost something will head here. We gather every lost item in the Stevens and try to match them with their owners. If you lost something, be sure to check here out first!
+  The LOST&FOUND is a web app developed by Node.JS, which is the platform for the Stevens community. Either people find something or people lost something will head here. We gather every lost item in the Stevens and try to match them with their owners. If you lost something, be sure to check here out first!
 
 **2. How do we develop LOST&FOUND?**
   <br>Node.JS: as our backend requirements</br>
